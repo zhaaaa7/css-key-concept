@@ -1,5 +1,8 @@
 https://www.w3cplus.com/css3/do-you-really-understand-css-linear-gradients.html
 
+http://www.alloyteam.com/2016/03/css-gradient/
+
+
 ## 渐变角度
 1. 角度是和中轴线的夹角
 
